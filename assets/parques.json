@@ -1,0 +1,104 @@
+[
+  {
+    "id": 0,
+    "name": "Parque Municipal do Córrego Grande",
+    "address": "R. João Pio Duarte Silva, 535 - Córrego Grande, Florianópolis - SC, 88037-000",
+    "city": "Florianópolis SC",
+    "opening_hours": "Terça a Domingo, 06:00 as 18:30",
+    "image": "https://2.bp.blogspot.com/-rw3MrJq3C1A/U1j5qQbbnaI/AAAAAAAAAQY/lqFYqhPCveo/s1600/parque_ecologico_corrego_grande.jpg",
+    "email": "parquemunicipalcorregogrande@gmail.com",
+    "video": "https://www.youtube.com/watch?v=FbkYCAKTc_Y&ab_channel=PrefeituradeFlorian%C3%B3polis",
+    "geo": {
+      "lat": "-27.599784387655788",
+      "lng": "-48.511375399999935"
+    },
+    "cost": "0",
+    "phone": "04832699551",
+    "website": "https://www.pmf.sc.gov.br/"
+  },
+  {
+    "id": 1,
+    "name": "Jardim Botânico de Florianópolis",
+    "address": "Rod. Admar Gonzaga, 742-782 - Itacorubi, Florianópolis - SC",
+    "city": "Florianópolis SC",
+    "opening_hours": "Terça a Domingo, 07:00 as 18:00",
+    "image": "https://s2-g1.glbimg.com/UW8t09E50s7PqcG2ybF1MREefgI=/0x0:800x530/924x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2022/5/Z/4qINvpS8K0bsE1Gv8brw/botanico-de-fpolis.jpg",
+    "email": "jardimbotanico@gmail.com",
+    "video": "https://www.youtube.com/watch?v=M1y_0zabXs8&ab_channel=EpagriV%C3%ADdeos",
+    "geo": {
+      "lat": "-27.579051152325928",
+      "lng": "-48.50860006034403"
+    },
+    "cost": "0",
+    "phone": "34514701",
+    "website": "http://www.pmf.sc.gov.br/entidades/comcap/index.php?cms=apresentacao+jbf&menu=5&submenuid=1676"
+  },
+  {
+    "id": 2,
+    "name": "Parque Estadual do Rio Vermelho",
+    "address": "Rod. João Gualberto Soares, s/n - São João do Rio Vermelho, Florianópolis - SC, 88010-102",
+    "city": "Florianópolis SC",
+    "opening_hours": "Terça a Domingo, 09:00 as 17:00",
+    "image": "https://www.pousadadossonhos.com.br/wp-content/uploads/2019/04/281562-parque-florestal-do-rio-vermelho-em-floripa-vale-a-pena-visitar-1.jpg",
+    "email": "parqueriovermelho@gmail.com",
+    "video": "https://www.youtube.com/watch?v=5mJjJHoPBdc&ab_channel=TVUFSC",
+    "geo": {
+      "lat": "-27.526811255390964",
+      "lng": "-48.42723280429546"
+    },
+    "cost": "6",
+    "phone": "34514701",
+    "website": "https://www.ima.sc.gov.br/index.php/biodiversidade/unidades-de-conservacao/parque-estadual-do-rio-vermelho"
+  },
+  {
+    "id": 3,
+    "name": "Parque Linear do Córrego Grande",
+    "address": "R. Sebastião L. da Silva, 264 - Córrego Grande, Florianópolis - SC, 88037-400",
+    "city": "Florianópolis SC",
+    "opening_hours": "Aberto 24h",
+    "image": "https://images.adsttc.com/media/images/635b/c1be/8f6d/204a/b0a8/bd34/medium_jpg/parque-linear-do-corrego-grande-ja8-arquitetura-viva_3.jpg?1666957780",
+    "email": "corregogrande@gmail.com",
+    "video": "https://www.youtube.com/watch?v=X4oJXcB5JIg&ab_channel=DimasConstru%C3%A7%C3%B5es",
+    "geo": {
+      "lat": "-27.602804008179756",
+      "lng": "-48.50365472487387"
+    },
+    "cost": "0",
+    "phone": "34514701",
+    "website": "https://www.pmf.sc.gov.br/"
+  },
+  {
+    "id": 4,
+    "name": "Parque da Luz",
+    "address": "R. Felipe Schmidt - Centro, Florianópolis - SC, 88010-150",
+    "city": "Florianópolis SC",
+    "opening_hours": "Aberto 24h",
+    "image": "https://www.correiosc.com.br/wp-content/uploads/2020/01/entorno-cabeceira-ponte-hercilio-luz-parque-da-luz-min.jpg",
+    "email": "parqueluz@gmail.com",
+    "video": "https://www.youtube.com/watch?v=BotsUJhzAYM&ab_channel=OmundoemVHS-ViagenspeloMundo",
+    "geo": {
+      "lat": "-27.592003027913165",
+      "lng": "-48.56056662644911"
+    },
+    "cost": "0",
+    "phone": "04832346049",
+    "website": "https://amigosdoparquedaluz.com.br/"
+  },
+  {
+    "id": 5,
+    "name": "Bosque da UFSC",
+    "address": "Av. César Seara, 219 - Saco dos Limões, Florianópolis - SC, 88040-500",
+    "city": "Florianópolis SC",
+    "opening_hours": "Aberto 24h",
+    "image": "https://noticias.ufsc.br/files/2018/08/bosque-4.png",
+    "email": "bosqueufsc.com",
+    "video": "https://www.youtube.com/watch?v=5_Ad6g8N7kY",
+    "geo": {
+      "lat": "-27.6020959704016",
+      "lng": "-48.522566556921774"
+    },
+    "cost": "0",
+    "phone": "34514701",
+    "website": "https://www.pmf.sc.gov.br/"
+  }
+]
